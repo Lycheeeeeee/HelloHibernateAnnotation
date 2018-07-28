@@ -82,7 +82,7 @@ Special notes:
 - We can define dataSource and hibernateProperties as beans but I personally don't think it is useful
 - In PersonService class, we can add other CRUD methods such as update, get, getAll, delete etc. 
 - Usually, we need to make PersonService as an interface and implement it by creating a class such as PersonServiceImpl or PersonServiceHibernate etc. 
-
+sad
 
 
 
